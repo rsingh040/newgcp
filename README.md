@@ -1,2 +1,3 @@
 # newgcp
-test gcp is for git test
+
+Basic test for using the Git commands
